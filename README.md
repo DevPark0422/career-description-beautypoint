@@ -17,7 +17,7 @@
 ---  
 ## 프로젝트(Project)
 
-| <a href="https://play.google.com/store/apps/details?id=com.amorepacific.handset&hl=ko" target="_blank"><img src="/images/travelStyle_news.png" width="300px" height="370px" title="플레이스토어" alt="플레이스토어"></img></a> | 안드로이드 앱 : 뷰티포인트<br>개발 및 유지보수 기간 : 20.11 ~ 22.08월(약 1년 10개월)<br>담당 업무: 신규 기능 개발 및 유지보수<br><br>[요약 설명]<br>아모레퍼시픽 통합 멤버십 포인트 적립 기능 앱<br><br>[주요 기능]<br>- GoogleFit API를 이용한 렛츠워크(만보기) 기능<br>- 커스텀 카메라 촬영 및 이미지 편집 기능<br>- 리뷰작성  CRUD(작성, 읽기, 수정, 삭제) 기능<br> - 웹뷰 기반 하이브리드 기능|
+| <a href="https://play.google.com/store/apps/details?id=com.amorepacific.handset&hl=ko" target="_blank"><img src="/images/travelStyle_news.png" width="300px" height="370px" title="플레이스토어" alt="플레이스토어"></img></a> | 안드로이드 앱 : 뷰티포인트<br>개발 및 유지보수 기간 : 20.11 ~ 22.08월(약 1년 10개월)<br>담당 업무: 신규 기능 개발 및 유지보수<br><br>[요약 설명]<br>아모레퍼시픽 통합 멤버십 포인트 적립 관리 기능 앱<br><br>[주요 기능]<br>- GoogleFit API를 이용한 렛츠워크(만보기) 기능<br>- 커스텀 카메라 촬영 및 이미지 편집 기능<br>- 리뷰작성  CRUD(작성, 읽기, 수정, 삭제) 기능<br> - 웹뷰 기반 하이브리드 기능|
 | ----- | :---- |
 
 #### 주요화면(Important Screen)
