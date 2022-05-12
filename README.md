@@ -33,7 +33,7 @@
 #### 커스텀 카메라
 | 메인 | 1:1 preview | 3:4 preview | 필터적용 |
 | ----- | ---- | ----- | ---- |
-| ![채팅방목록화면](/images/11_camera.jpg) | ![1:1prview](/images/11_preview11.jpg) | ![3:4prview](/images/11_preview34.jpg) | ![필터적용](/images/11_filter.jpg) |
+| ![카메라메인](/images/11_camera.jpg) | ![1:1prview](/images/11_preview11.jpg) | ![3:4prview](/images/11_preview34.jpg) | ![필터적용](/images/11_filter.jpg) |
 
 | 게시물작성화면 | 채팅방생성화면 | 채팅화면 | 게시물상세화면 |
 | ----- | ---- | ----- | ---- |
