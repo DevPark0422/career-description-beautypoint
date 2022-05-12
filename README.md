@@ -31,7 +31,7 @@
 | ![메인](/images/01_letswalk.jpg) | ![일간데이터](/images/02_daily_data.jpg) | ![걸음수기부](/images/03_donation.jpg) | ![팝업](/images/04_popup.jpg) |
 
 #### 커스텀 카메라
-| 메인 | 1:1 preview | 3:4 preview | 필터적용 |
+| 메인 | 1:1화면  | 3:4화면  | 필터적용 |
 | ----- | ---- | ----- | ---- |
 | ![카메라메인](/images/11_camera.jpg) | ![1:1prview](/images/11_preview11.jpg) | ![3:4prview](/images/11_preview34.jpg) | ![필터적용](/images/11_filter.jpg) |
 
