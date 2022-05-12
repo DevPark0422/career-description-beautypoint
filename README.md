@@ -35,9 +35,10 @@
 | ----- | ---- | ----- | ---- |
 | ![카메라메인](/images/11_camera.jpg) | ![1:1prview](/images/11_preview11.jpg) | ![3:4prview](/images/11_preview34.jpg) | ![필터적용](/images/11_filter.jpg) |
 
-| 게시물작성화면 | 채팅방생성화면 | 채팅화면 | 게시물상세화면 |
+#### 커스텀 갤러리
+| 폴더목록 | 전체사진 | 편집 | 결과 |
 | ----- | ---- | ----- | ---- |
-| ![게시물작성화면](/images/09_feed_write.png) | ![채팅방생성화면](/images/10_create_chat.png) | ![채팅화면](/images/11_chating.png) | ![게시물상세화면](/images/12_detail.png) |
+| ![게시물작성화면](/images/21_main.jpg) | ![채팅방생성화면](/images/22_overall.jpg) | ![채팅화면](/images/23_edit.jpg) | ![게시물상세화면](/images/24_list.jpg) |
 
 ---
 ## 고찰(Consideration)
