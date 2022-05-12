@@ -25,13 +25,15 @@
 | ----- | ---- | ----- | ---- |
 |![여행사람 글쓰기](/images/01_feed_write.gif)| ![여행사람 여행일정 등록](/images/02_create_chat.gif) |![여행사람 채팅](/images/03_chating.gif)| ![여행사람 전체보기](/images/04_comment.gif) |
 
-| 로그인화면 | 회원가입화면 | 게시물목록화면 | 여행일정화면 |
+#### 렛츠워크(만보기)
+| 메인 | 일간데이터 | 걸음수기부 | 팝업 |
 | ----- | ---- | ----- | ---- |
-| ![로그인화면](/images/01_login.png) | ![회원가입화면](/images/02_signup.png) | ![게시물화면](/images/03_feed.png) | ![여행일정화면](/images/04_list.png) |
+| ![메인](/images/01_letswalk.jpg) | ![일간데이터](/images/02_daily_data.jpg) | ![걸음수기부](/images/03_donation.jpg) | ![팝업](/images/04_popup.jpg) |
 
-| 채팅방목록화면 | 알림목록화면 | 마이페이지화면 | 설정화면 |
+#### 커스텀 카메라
+| 메인 | 1:1 preview | 3:4 preview | 필터적용 |
 | ----- | ---- | ----- | ---- |
-| ![채팅방목록화면](/images/05_chat.png) | ![알림목록화면](/images/06_notice.png) | ![마이페이지화면](/images/07_mypage.png) | ![설정화면](/images/08_setting.png) |
+| ![채팅방목록화면](/images/11_camera.jpg) | ![1:1prview](/images/11_preview11.jpg) | ![3:4prview](/images/11_preview34.jpg) | ![필터적용](/images/11_filter.jpg) |
 
 | 게시물작성화면 | 채팅방생성화면 | 채팅화면 | 게시물상세화면 |
 | ----- | ---- | ----- | ---- |
